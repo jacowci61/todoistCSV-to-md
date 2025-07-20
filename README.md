@@ -5,6 +5,7 @@ Example of input and output provided below. Currently, indicies of columns which
 
 - Output file that is opened in Obsidian preview mode
 <img width="960" height="186" alt="Снимок экрана 2025-07-20 160013" src="https://github.com/user-attachments/assets/217812ee-f49e-4468-87ea-299c6ad07710" />
-# TODO:
-- [ ] Currently doesn't support nested tasks
+
+# TODO
+- [ ] Add support of nested tasks
 - [ ] Add ability to read which columns to extract by asking for user input in console
